@@ -220,7 +220,7 @@ hr {
   .container-1 button:hover,
   .container-3 button:hover {
     background: transparent;
-    border-color: var(--light-grayish-blue);
+    border-color: none;
     color: var(--purple);
     border-width: 1px;
     transition: background ease-in-out 0.5s;
@@ -228,7 +228,7 @@ hr {
   }
   .container-2 button:hover {
     background-color: transparent;
-    border-color: var(--white);
+    border-color: white;
     color: var(--white);
     border-width: 1px;
     transition: var(--transition);
